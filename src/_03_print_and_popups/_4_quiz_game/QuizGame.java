@@ -4,7 +4,7 @@ public class QuizGame {
 	public static void main(String[] args) {
 		
 		// Create a variable to hold the user's score. Set it equal to zero. 
-		
+		int score=0
 		// ASK A QUESTION AND CHECK THE ANSWER
 		
 				// 2.  Ask the user a question 
